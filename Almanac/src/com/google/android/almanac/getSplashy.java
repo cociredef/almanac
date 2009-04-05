@@ -1,6 +1,7 @@
 package com.google.android.almanac;
 
 import android.app.Activity;
+import android.util.Log;
 import android.view.KeyEvent;
 import android.os.Bundle;
 import android.content.Intent;
@@ -31,21 +32,27 @@ public class getSplashy extends Activity
         		{
         			//Wait loop
         			long ms = 0;
-        			while(m_bSplashActive && ms < m_dwSplashTime)
+        			while(m_bSplashActive && (ms < m_dwSplashTime))
         			{
         				sleep(100);
+        				Log.d("Almanac:Debug", "While cicle");
         				//Only advance the timer if we're running.
         				if(!m_bPaused)
         					ms += 100;
         			}
         			//Advance to the next screen.
         			startActivity(new Intent("com.google.app.splashy.CLEARSPLASH"));
-        			finish();
+        			Log.d("Almanac:Debug", "Start: com.google.app.splashy.CLEARSPLASH");
         		}
         		catch(Exception e)
         		{
         			//Thread exception
-        			System.out.println(e.toString());
+        			//System.out.println(e.toString());
+        			Log.e("Almanac: Splash", e.toString());
+        		}
+        		finally
+        		{
+        			finish();
         		}
         	}
         };
