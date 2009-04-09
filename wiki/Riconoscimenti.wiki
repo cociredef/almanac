@@ -1,0 +1,6 @@
+== Riconoscimenti e ringraziamenti ==
+
+Un grazie speciale a:
+
+ # Francesca Mussolin per la creazione dello splendido logo
+ # Al creatore dell'applet Java da cui sono stati tratti la maggior parte degli algoritmi utili al calcolo delle fasi lunari, solari, effemeridi, etc... (http://www.merrymeet.com/minow/sunclock/sunclock.html)
