@@ -3,5 +3,6 @@
 Un grazie speciale a:
 
  # Francesca Mussolin per la creazione dello splendido logo
- # Al creatore dell'applet Java da cui sono stati tratti la maggior parte degli algoritmi utili al calcolo delle fasi lunari, solari, effemeridi, etc... (http://www.merrymeet.com/minow/sunclock/sunclock.html)
- # Il creatore di bellisime icone Nuvola per KDE, due sono state utilizzate nel programma (http://www.icon-king.com/projects/nuvola/)
+ # Al creatore dell'applet Java da cui sono stati tratti la maggior parte degli algoritmi utili al calcolo delle fasi lunari, solari, effemeridi, etc... (http://www.merrymeet.com/minow/sunclock/sunclock.html) Licenza Open Source
+ # Il creatore di bellisime icone Nuvola per KDE, due sono state utilizzate nel programma (http://www.icon-king.com/projects/nuvola/) Licenza LGPL
+ # http://sourceforge.net/projects/easterj2me/ Licenza GPL
