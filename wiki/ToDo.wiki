@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+#labels Phase-Implementation,TODO
+
+= Cose da fare ed errori conosciuti =
+
+ # Errore relativo alla fase lunare: sembra persistere un errore sulla fase lunare. Controllando c'e' un giorno di differenza sulla fase lunare. SOLUZIONE POSSIBILE: utilizzare una diversa libreria o funzione per il calcolo della fase lunare ed armonizzarla con il codice già esistente (http://www.koders.com/java/fid26AB2334535059B2BB3FE77CC0591FD2AD9DA0B6.aspx?s=moon+phase#L1)
+ # La data del calendario Islamica sembra soffrire dello stesso errore.
+  * Chiedere allo sviluppatore possibili soluzioni (http://code.google.com/p/hijricalendar/)
+  * Vedere codice per una versione Android dell'hijricalendar (http://code.google.com/p/hicriandcalendar/)
+  * Usare un'altra libreria di funzioni? (http://code.google.com/p/j-islamic/)
+ # Aggiungere calendario Maya (vedi: https://jade.dev.java.net/)
+
