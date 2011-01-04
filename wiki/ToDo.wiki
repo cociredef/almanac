@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Una breve lista di cose da fare e degli errori
 #labels Phase-Implementation,TODO
 
 = Cose da fare ed errori conosciuti =
@@ -9,4 +9,3 @@
   * Vedere codice per una versione Android dell'hijricalendar (http://code.google.com/p/hicriandcalendar/)
   * Usare un'altra libreria di funzioni? (http://code.google.com/p/j-islamic/)
  # Aggiungere calendario Maya (vedi: https://jade.dev.java.net/)
-
