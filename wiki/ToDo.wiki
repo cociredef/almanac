@@ -8,7 +8,7 @@
   * Chiedere allo sviluppatore possibili soluzioni (http://code.google.com/p/hijricalendar/)
   * Vedere codice per una versione Android dell'hijricalendar (http://code.google.com/p/hicriandcalendar/)
   * Usare un'altra libreria di funzioni? (http://code.google.com/p/j-islamic/)
- # ~~Aggiungere calendario Maya vedi: https://jade.dev.java.net/~~
+ # ~~Aggiungere calendario Maya~~ vedi: https://jade.dev.java.net/
  # Aggiungere festività mobili (Pasqua, Pentecoste. etc...)
  # Integrare il servizio online per le festività civili nel mondo? (http://api.daybase.eu/)
  # Creare un Intent in modo da permettere ad altre applicazioni di ricevere i dati elaborati da Almanac
