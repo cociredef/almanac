@@ -1,4 +1,6 @@
+#summary Coordinamento con www.almanac.it
 #labels Phase-Support,Featured
+
 = Scopo Pagina =
 
 Pagina wiki dedicata a tutte le attività che riguardano l'allineamento dei contenuti tra queste pagine del progetto e il sito Almanac.it
@@ -10,5 +12,3 @@ Pagina wiki dedicata a tutte le attività che riguardano l'allineamento dei cont
   * nella pagina download mettere il Link a *questo sito qua* del sorgente 
   * in generale aggionare data sito
   
-
-
