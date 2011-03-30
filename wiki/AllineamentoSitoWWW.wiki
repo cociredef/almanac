@@ -1,0 +1,14 @@
+#labels Phase-Support,Featured
+= Scopo Pagina =
+
+Pagina wiki dedicata a tutte le attività che riguardano l'allineamento dei contenuti tra queste pagine del progetto e il sito Almanac.it
+
+
+= Details =
+  * cambiare pagina links sito, in particolare tutti i links dei credits, ed eventualmente nuovo gruppo links dei contenuti, come quello su calndar algorithms ma dedicato alla parte "liturgica"?( santi, pasqua, feste mobili,  ecc,compreso sito saints.sqpn.com)
+  * nella apgina italiana togliere data aggiornamento aprile 2010 (gulp)
+  * nella pagina download mettere il Link a *questo sito qua* del sorgente 
+  * in generale aggionare data sito
+  
+
+
