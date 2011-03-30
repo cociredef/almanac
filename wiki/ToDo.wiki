@@ -1,5 +1,5 @@
 #summary Una breve lista di cose da fare e degli errori da correggere
-#labels Phase-Implementation,TODO
+#labels Phase-Implementation,TODO,Featured
 
 = Cose da fare ed errori conosciuti =
 
