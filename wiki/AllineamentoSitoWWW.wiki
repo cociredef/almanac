@@ -11,4 +11,6 @@ Pagina wiki dedicata a tutte le attività che riguardano l'allineamento dei cont
   * nella apgina italiana togliere data aggiornamento aprile 2010 (gulp)
   * nella pagina download mettere il Link a *questo sito qua* del sorgente 
   * in generale aggionare data sito
+  *aggiungere pulsante +1 di google: vedi qui: 
+http://code.google.com/intl/it-IT/apis/+1button/#target-url
   
