@@ -1,17 +1,20 @@
 #summary Una breve lista di cose da fare e degli errori da correggere
-#labels Phase-Implementation,TODO,Featured
+#labels Phase-Implementation,TODO,Featured,Phase-Design,Richiesteutenti
 
 = Cose da fare ed errori conosciuti =
 
  # ~~Errore relativo alla fase lunare: sembra persistere un errore sulla fase lunare. Controllando c'e' un giorno di differenza sulla fase lunare. SOLUZIONE POSSIBILE: utilizzare una diversa libreria o funzione per il calcolo della fase lunare ed armonizzarla con il codice già esistente (http://www.koders.com/java/fid26AB2334535059B2BB3FE77CC0591FD2AD9DA0B6.aspx?s=moon+phase#L1)~~
  # ~~La data del calendario Islamica sembra soffrire dello stesso errore.~~
-  * Chiedere allo sviluppatore possibili soluzioni (http://code.google.com/p/hijricalendar/)
-  * Vedere codice per una versione Android dell'hijricalendar (http://code.google.com/p/hicriandcalendar/)
+  * ~~Chiedere allo sviluppatore possibili soluzioni (http://code.google.com/p/hijricalendar/)~~
+  * ~~Vedere codice per una versione Android dell'hijricalendar (http://code.google.com/p/hicriandcalendar/)~~
   * Usare un'altra libreria di funzioni? (http://code.google.com/p/j-islamic/)
-  *(Controllato con; https://market.android.com/details?id=com.cepmuvakkit e sembra tutto ok!)
+  * ~~(Controllato con; https://market.android.com/details?id=com.cepmuvakkit e sembra tutto ok!)~~
  # ~~Aggiungere calendario Maya~~ vedi: https://jade.dev.java.net/
- # Aggiungere festività mobili (Pasqua, Pentecoste. etc...)
+ # ~~Aggiungere festività mobili (Pasqua, Pentecoste. etc...)~~
  # Integrare il servizio online per le festività civili nel mondo? (http://api.daybase.eu/)
  # Creare un Intent in modo da permettere ad altre applicazioni di ricevere i dati elaborati da Almanac
- # Integrare l'ottima AboutActivity: http://android.marcoduff.com/aboutactivity.php
- # Popolare la tabella dei santi del giorno (chiedendo autorizzazione ;-) con: (http://saints.sqpn.com/calendar-of-saints/)
+ # ~~Integrare l'ottima AboutActivity: http://android.marcoduff.com/aboutactivity.php~~
+ # ~~Popolare la tabella dei santi del giorno (chiedendo autorizzazione ;-) con: (http://saints.sqpn.com/calendar-of-saints/)~~
+ # Aggiungere numero del giorno (x/365) come da richiesta utente
+ # Aggiungere Proverbio del giorno
+ # Integrare un widget nell'applicazione
