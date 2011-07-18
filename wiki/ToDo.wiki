@@ -1,5 +1,5 @@
+#summary Una breve lista di cose da fare e degli errori da correggere
 #labels Phase-Implementation,TODO,Featured,Phase-Design,Richiesteutenti
- #summary Una breve lista di cose da fare e degli errori da correggere
 
 = Cose da fare ed errori conosciuti =
 
