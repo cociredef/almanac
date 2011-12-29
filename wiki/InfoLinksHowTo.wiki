@@ -1,3 +1,4 @@
 = Lista di siti interessanti =
 
 http://mhuss.com/AstroLib.html
+http://conga.oan.es/~alonso/doku.php?id=jparsec
