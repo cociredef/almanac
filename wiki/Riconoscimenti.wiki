@@ -13,4 +13,4 @@ Un grazie speciale a:
   * Alcune delle icone del Menù, di libero utilizzo, scaricate dal sito: http://www.glyfx.com/products/free_android2.html
   * L'icona angel.png, di libero utilizzo, da: http://www.iconspedia.com/dload.php?up_id=39918 
   * L'icona sunrise.png, di libero utilizzo secondo licenza http://www.icons-land.com/license-a greements.php#DemoLicenseAgreement, da: http://www.icons-land.com/download/IconsLandVistaWeatherIconsDemo.zip
-  * L'icona treklogo.png di pubblico dominio da: [http://upload.wikimedia.org/wikipedia/it/3/30/Treklogo.jpg]
+  * L'icona treklogo.png di pubblico dominio da: [http://it.wikipedia.org/wiki/File:Treklogo.jpg http://upload.wikimedia.org/wikipedia/it/3/30/Treklogo.jpg]
