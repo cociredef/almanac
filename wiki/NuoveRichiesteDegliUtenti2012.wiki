@@ -8,7 +8,7 @@ Lista richieste fatte dagli utenti nel 2011-2012 (TODO)
 = Lista =
 
    * Aggiungere numero di giorni residui alla fine dell'anno in corso (es 25/365)
-   * Passare ad Android 2.2 (API Level 
+   * Passare ad Android 2.2 (API Level 8 Froyo)
    * Creare Android Widget Open Almanac con dati selezionabili dall'uente o almeno con santo del giorno e fase lunare
    * Aggiungere proverbio del giorno (ITA ed ENG)
    * Aggiungere frase famosa del giorno (ITA ed ENG)
