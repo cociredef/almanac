@@ -17,7 +17,7 @@ Lista richieste fatte dagli utenti nel 2011-2012 (TODO)
    * Lista località principali per scelta manuale Long-Lat
    * Aggiungere festività calendario liturgico (Lunedì dell'Angelo, Mercoledì delle Ceneri, Pentecoste
    * Aggiungere festività civile (http://daybase.eu/doc/index.jsp)
-   * Ricerca alfabetica dei Santi (tramite serach Android)
+   * Ricerca alfabetica dei Santi (tramite search Android)
 
 
 = Progetto Open Almanac Server =
