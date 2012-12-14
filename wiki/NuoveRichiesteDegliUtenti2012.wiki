@@ -22,5 +22,5 @@ Lista richieste fatte dagli utenti nel 2011-2012 (TODO)
 
 = Progetto Open Almanac Server =
 
-   # https://snap.apigee.com/IC491x
+   # http://jsongen.byingtondesign.com/
    # http://almanac.alwaysdata.net/
